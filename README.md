@@ -1,5 +1,4 @@
 # API
-
 Atividades realizadas de API no CSPT em logística.
 ## Desenvolvimento 1.
 Trabalho executado utilizando google colab.
